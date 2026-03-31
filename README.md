@@ -11,6 +11,18 @@ Il progetto prende spunto da uno scenario reale: **ToysGroup** è un'azienda che
 
 ---
 
+## 🎯 Obiettivo del progetto
+
+L'obiettivo è simulare uno scenario aziendale reale, progettando un database in grado di supportare:
+
+- Gestione prodotti e categorie
+- Gestione aree geografiche e regioni di vendita
+- Registrazione delle transazioni
+- Reporting e analisi di business
+- Creazione di viste denormalizzate per la consultazione
+
+---
+
 ## 🔍 Fasi del progetto
 
 ### 1. Domande teoriche
@@ -46,18 +58,6 @@ Serie di query SQL per rispondere a domande di business:
 | 7 | Prodotti invenduti — due approcci risolutivi differenti |
 | 8 | Vista denormalizzata sui prodotti (codice, nome, categoria) |
 | 9 | Vista per le informazioni geografiche |
-
----
-
-## 🎯 Obiettivo del progetto
-
-L'obiettivo è simulare uno scenario aziendale reale, progettando un database in grado di supportare:
-
-- Gestione prodotti e categorie
-- Gestione aree geografiche e regioni di vendita
-- Registrazione delle transazioni
-- Reporting e analisi di business
-- Creazione di viste denormalizzate per la consultazione
 
 ---
 
