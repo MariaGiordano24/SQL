@@ -7,7 +7,7 @@ Progettazione e implementazione di un database relazionale per la gestione delle
 
 ## 📋 Descrizione del progetto
 
-Il progetto prende spunto da uno scenario reale: **ToysGroup** è un'azienda che distribuisce giocattoli in mercati internazionali, classificati per regioni di vendita. A partire da questo scenario, è stato progettato e implementato un database relazionale completo, dalla fase concettuale fino all'implementazione fisica in SQL Server.
+Il progetto prende spunto da uno scenario reale: **ToysGroup** è un'azienda che distribuisce giocattoli in mercati internazionali, classificati per regioni di vendita. A partire da questo scenario, è stato progettato e implementato un database relazionale completo, dalla fase concettuale fino all'implementazione fisica in SQL.
 
 ---
 
